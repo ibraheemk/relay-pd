@@ -1,0 +1,20 @@
+{
+  "name": "relay-pd",
+  "version": "1.0.0",
+  "description": "Relay Pager Duty alerts plugin",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibraheemk/relay-pd.git"
+  },
+  "author": "Ibraheem Khalifa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibraheemk/relay-pd/issues"
+  },
+  "homepage": "https://github.com/ibraheemk/relay-pd#readme"
+}
